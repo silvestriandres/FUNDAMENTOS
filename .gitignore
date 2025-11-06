@@ -52,3 +52,7 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs
+/SOLID/[S]-Single Responsibility Principle/.vs/[S]-Single Responsibility Principle/v17
+/SOLID/[S]-Single Responsibility Principle/.vs/[S]-Single Responsibility Principle/FileContentIndex
+/SOLID/[S]-Single Responsibility Principle/.vs/[S]-Single Responsibility Principle/CopilotIndices/17.14.1368.60722
